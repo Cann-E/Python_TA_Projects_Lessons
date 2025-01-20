@@ -29,7 +29,7 @@ class student_system():#later finish
         else:
            print(f"{student_search} is not in the system!")
            
-    def update_student_grade(self):
+    
         
     
     
