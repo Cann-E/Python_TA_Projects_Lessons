@@ -1,26 +1,26 @@
 
-name="Can Ercan"
-name=name.split(" ")
+# name="Can Ercan"
+# name=name.split(" ")
 
-print("List of letters: ",name)
-
-
-METHODS FOR LISTS
+# print("List of letters: ",name)
 
 
-names=[]   Creates A list empty or not
+# METHODS FOR LISTS
 
-names =list()   Creates a new empty list
 
-.split()     Splits a vriabe and creates a list
+# names=[]   Creates A list empty or not
 
-.append()    Add an item to a list
+# names =list()   Creates a new empty list
 
-.remove()   Can remove an item from a list
+# .split()     Splits a vriabe and creates a list
 
-.sort()     Auto sorts a list
+# .append()    Add an item to a list
 
-names[3]    Gets the 4th element from a list
+# .remove()   Can remove an item from a list
 
-names[-1]   Gets the last element from a list
+# .sort()     Auto sorts a list
+
+# names[3]    Gets the 4th element from a list
+
+# names[-1]   Gets the last element from a list
 
