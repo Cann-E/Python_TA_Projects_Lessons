@@ -8,8 +8,8 @@ class Inventory_Management():
         self.price_item=float(input("Enter The price of the item: "))
         self.quantity_item=int(input("Enter the quantity: "))
         item = [self.name_item, self.price_item, self.quantity_item]
-        self.inventory.append(item)  # Append the item to the inventory as a sublist
-        return item  # Return the sublist (item details)
+        self.inventory.append(item)  
+        return item  
     
     def remove_item(self):
         print(f"Your Inventory is {self.inventory}")
