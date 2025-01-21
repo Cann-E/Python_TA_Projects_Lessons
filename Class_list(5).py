@@ -28,7 +28,7 @@ class Inventory_Management():
                 new_quantity = int(input(f"Enter the new quantity for {name_item_}: "))
                 item[2] = new_quantity  
                 print(f"New quantity for {name_item_} is {item[2]}")
-                return
+                return item
         print(f"Item {name_item_} is not in the inventory!")
             
             
